@@ -6,7 +6,7 @@ This repository showcases six foundational projects I completed while learning *
 
 * **Six hands-on programming projects:** These projects allowed me to apply theoretical knowledge to practical scenarios.
 * **Hundreds of coding challenges:** Sharpened my problem-solving skills and deepened my understanding of Python concepts.
-* **Mastery of over 40 diverse topics:** Built a strong, comprehensive foundation in the language.
+* **Mastery of over 60 diverse topics:** Built a strong, comprehensive foundation in the language.
 
 ### Why Python?
 
