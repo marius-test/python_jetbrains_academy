@@ -2,13 +2,13 @@
 
 This repository showcases six foundational projects I completed while learning **Python** through **JetBrains Academy**, starting in early 2022, a journey that took me about six months. Python programming became one of my passions, thanks to its versatility and wide range of real-world applications.
 
-## What I Achieved
+### What I Achieved
 
 - **Six hands-on projects:** Applied theoretical knowledge to real-world problems.
 - **Hundreds of coding challenges:** Strengthened problem-solving skills and deepened understanding of Python.
 - **Over 60 topics mastered:** Built a solid and comprehensive foundation in the language.
 
-## Why Python?
+### Why Python?
 
 I was introduced to Python during my university studies as a physics student, using libraries like SciPy and NumPy. Although it didn’t stick with me at the time, I saw its potential.
 
