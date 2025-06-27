@@ -1,7 +1,5 @@
 # python_jetbrains_academy
 
-## My Python Learning Journey: From Beginner to Automation Enthusiast
-
 This repository showcases six foundational projects I completed while learning **Python** through **JetBrains Academy**, starting in early 2022. Python quickly became a passion of mine due to its incredible versatility and wide range of applications.
 
 ### What I Achieved
