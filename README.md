@@ -1,6 +1,6 @@
 # python_jetbrains_academy
 
-This repository showcases six foundational projects I completed while learning **Python** through **JetBrains Academy**, starting in early 2022, a journey that took me about six months. Python programming became one of my passions, thanks to its versatility and wide range of real-world applications.
+This repository showcases six foundational projects I completed during my skill development in **Python** through **JetBrains Academy**, starting in early 2022, a journey lasting about six months. Python programming became one of my passions due to its versatility and broad real-world applications.
 
 ### What I Achieved
 
