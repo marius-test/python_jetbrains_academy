@@ -4,7 +4,7 @@ This repository showcases six foundational projects I completed during my skill 
 
 ### What I Achieved
 
-- **Seven hands-on projects:** Applied theoretical knowledge to real-world problems.
+- **Eight hands-on projects:** Applied theoretical knowledge to real-world problems.
 - **Hundreds of coding challenges:** Strengthened problem-solving skills and deepened understanding of Python.
 - **Over 60 topics mastered:** Built a solid and comprehensive foundation in the language.
 
